@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Description>Mino is a distributed transaction processing scheme based on DotNet platform,It's also a part of MiCake.</Description>
+  </PropertyGroup>
+
+</Project>
